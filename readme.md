@@ -63,6 +63,7 @@ This assignemnt following the "file_example.cs"
 The output of this program should look like this:
 Requirements: Modify the example we used in the lectures so that it asks for the person's first and last name, and prints the saved names as shown in the image below.
 <div align="center">
+    
     ![assign3](https://user-images.githubusercontent.com/49017322/222787348-c2869444-e7b8-4311-985a-b69055f63569.png)
 </div>
 
