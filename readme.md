@@ -82,6 +82,8 @@ Extra resource:
 [TextBox](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/controls/textbox?view=netframeworkdesktop-4.8)
 
 <div align="center">
-![Screenshot from 2023-03-03 19-25-41](https://user-images.githubusercontent.com/49017322/222789129-fb376153-7b81-4221-9232-4e5df276bed4.png)
+    
+![Screenshot from 2023-03-03 19-25-41](https://user-images.githubusercontent.com/49017322/222790114-43f2e721-980e-4638-b64a-4657e0133371.png)
+
 
 </div>
