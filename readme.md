@@ -63,12 +63,8 @@ This assignemnt following the "file_example.cs"
 The output of this program should look like this:
 Requirements: Modify the example we used in the lectures so that it asks for the person's first and last name, and prints the saved names as shown in the image below.
 
-<div align="center">
-    
-    ![assign3](https://user-images.githubusercontent.com/49017322/222790340-581b2693-0ee4-4ada-9abf-f20424ac5404.png)
+![assign3](https://user-images.githubusercontent.com/49017322/222790464-78950377-4751-45b3-a395-43b9af31fa4f.png)
 
-
-</div>
 
 #### Assigment 4: JuliaListBox
 ##### Window form --GUI:
