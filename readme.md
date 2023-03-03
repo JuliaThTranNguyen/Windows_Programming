@@ -63,5 +63,25 @@ This assignemnt following the "file_example.cs"
 The output of this program should look like this:
 Requirements: Modify the example we used in the lectures so that it asks for the person's first and last name, and prints the saved names as shown in the image below.
 <div align="center">
-    <img width="90%" src="./img/asign3.png">
+    ![assign3](https://user-images.githubusercontent.com/49017322/222787348-c2869444-e7b8-4311-985a-b69055f63569.png)
+</div>
+
+#### Assigment 4: JuliaListBox
+##### Window form --GUI:
+<i>Unfortunately, all of the IDEs for linux users are not fully support this feature. You can use an external VM or try with other OS instead . Or you can try with [cross-platform development using .NET on Ubuntu on WSL](https://ubuntu.com/blog/creating-cross-platform-applications-with-net-on-ubuntu-on-wsl)</i>
+
+Description: Get to learn on how to create the 1st GUI using C# and .NET.
+
+Extra resource:
+[Links](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/windows/how-to-open-message-box?view=netdesktop-7.0)
+
+[Buttons](https://learn.microsoft.com/en-us/dotnet/api/system.windows.controls.button?view=windowsdesktop-7.0)
+
+[TextBlock](https://learn.microsoft.com/en-us/dotnet/api/system.windows.controls.textblock?view=windowsdesktop-7.0)
+
+[TextBox](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/controls/textbox?view=netframeworkdesktop-4.8)
+
+<div align="center">
+![Screenshot from 2023-03-03 19-25-41](https://user-images.githubusercontent.com/49017322/222789129-fb376153-7b81-4221-9232-4e5df276bed4.png)
+
 </div>
