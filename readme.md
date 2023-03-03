@@ -73,13 +73,13 @@ Requirements: Modify the example we used in the lectures so that it asks for the
 Description: Get to learn on how to create the 1st GUI using C# and .NET.
 
 Extra resource:
-[Links](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/windows/how-to-open-message-box?view=netdesktop-7.0)
+[Microsoft_ListBox_Link](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/windows/how-to-open-message-box?view=netdesktop-7.0)
 
-[Buttons](https://learn.microsoft.com/en-us/dotnet/api/system.windows.controls.button?view=windowsdesktop-7.0)
+[Microsoft_Buttons_Link](https://learn.microsoft.com/en-us/dotnet/api/system.windows.controls.button?view=windowsdesktop-7.0)
 
-[TextBlock](https://learn.microsoft.com/en-us/dotnet/api/system.windows.controls.textblock?view=windowsdesktop-7.0)
+[Microsoft_TextBlock_Link](https://learn.microsoft.com/en-us/dotnet/api/system.windows.controls.textblock?view=windowsdesktop-7.0)
 
-[TextBox](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/controls/textbox?view=netframeworkdesktop-4.8)
+[Microsoft_TextBox_Link](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/controls/textbox?view=netframeworkdesktop-4.8)
 
 <div align="center">
     
